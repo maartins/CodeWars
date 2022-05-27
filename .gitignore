@@ -1,0 +1,5 @@
+# Project exclude paths
+/CreditCardMask/target/
+/target/
+/Vowels/target/
+/WhoLikesIt/target/
