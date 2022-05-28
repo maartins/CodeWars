@@ -9,6 +9,7 @@
         <module name="YourOrderPlease" />
         <module name="Vowels" />
         <module name="PlayingWithDigits" />
+        <module name="AreTheyTheSame" />
         <module name="CreditCardMask" />
         <module name="WhoLikesIt" />
       </profile>
