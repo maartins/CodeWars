@@ -13,6 +13,7 @@
         <module>CreditCardMask</module>
         <module>Vowels</module>
         <module>PlayingWithDigits</module>
+        <module>YourOrderPlease</module>
     </modules>
 
     <dependencies>
