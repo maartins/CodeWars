@@ -17,6 +17,7 @@
         <module>AreTheyTheSame</module>
         <module>DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes</module>
         <module>GrowthOfAPopulation</module>
+        <module>SortTheOdd</module>
     </modules>
 
     <dependencies>

@@ -9,6 +9,7 @@
         <module name="GrowthOfAPopulation" />
         <module name="YourOrderPlease" />
         <module name="WhoLikesIt" />
+        <module name="SortTheOdd" />
         <module name="Vowels" />
         <module name="PlayingWithDigits" />
         <module name="AreTheyTheSame" />
