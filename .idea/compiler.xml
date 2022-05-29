@@ -13,6 +13,7 @@
         <module name="Vowels" />
         <module name="PlayingWithDigits" />
         <module name="AreTheyTheSame" />
+        <module name="HighestScoringWord" />
         <module name="CreditCardMask" />
         <module name="DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes" />
       </profile>

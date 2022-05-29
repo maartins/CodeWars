@@ -18,6 +18,7 @@
         <module>DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes</module>
         <module>GrowthOfAPopulation</module>
         <module>SortTheOdd</module>
+        <module>HighestScoringWord</module>
     </modules>
 
     <dependencies>
