@@ -15,6 +15,7 @@
         <module>PlayingWithDigits</module>
         <module>YourOrderPlease</module>
         <module>AreTheyTheSame</module>
+        <module>DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes</module>
     </modules>
 
     <dependencies>

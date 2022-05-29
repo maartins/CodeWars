@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="YourOrderPlease" />
+        <module name="WhoLikesIt" />
         <module name="Vowels" />
         <module name="PlayingWithDigits" />
         <module name="AreTheyTheSame" />
         <module name="CreditCardMask" />
-        <module name="WhoLikesIt" />
+        <module name="DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes" />
       </profile>
     </annotationProcessing>
   </component>
