@@ -16,6 +16,7 @@
         <module>YourOrderPlease</module>
         <module>AreTheyTheSame</module>
         <module>DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes</module>
+        <module>GrowthOfAPopulation</module>
     </modules>
 
     <dependencies>
