@@ -19,6 +19,7 @@
         <module>GrowthOfAPopulation</module>
         <module>SortTheOdd</module>
         <module>HighestScoringWord</module>
+        <module>SumOfDigitsDigitalRoot</module>
     </modules>
 
     <dependencies>

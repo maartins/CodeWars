@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="GrowthOfAPopulation" />
         <module name="YourOrderPlease" />
+        <module name="SumOfDigitsDigitalRoot" />
         <module name="WhoLikesIt" />
         <module name="SortTheOdd" />
         <module name="Vowels" />
