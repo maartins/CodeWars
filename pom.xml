@@ -21,6 +21,7 @@
         <module>HighestScoringWord</module>
         <module>SumOfDigitsDigitalRoot</module>
         <module>ASimpleMusicEncoder</module>
+        <module>HumanReadableTime</module>
     </modules>
 
     <dependencies>

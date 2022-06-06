@@ -7,15 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GrowthOfAPopulation" />
+        <module name="SumOfDigitsDigitalRoot" />
+        <module name="SortTheOdd" />
+        <module name="HighestScoringWord" />
         <module name="ASimpleMusicEncoder" />
         <module name="YourOrderPlease" />
-        <module name="SumOfDigitsDigitalRoot" />
+        <module name="HumanReadableTime" />
         <module name="WhoLikesIt" />
-        <module name="SortTheOdd" />
         <module name="Vowels" />
         <module name="PlayingWithDigits" />
         <module name="AreTheyTheSame" />
-        <module name="HighestScoringWord" />
         <module name="CreditCardMask" />
         <module name="DeleteOccurrencesOfAnElementIfItOccursMoreThanNTimes" />
       </profile>
