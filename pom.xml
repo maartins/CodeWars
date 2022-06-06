@@ -20,6 +20,7 @@
         <module>SortTheOdd</module>
         <module>HighestScoringWord</module>
         <module>SumOfDigitsDigitalRoot</module>
+        <module>ASimpleMusicEncoder</module>
     </modules>
 
     <dependencies>
